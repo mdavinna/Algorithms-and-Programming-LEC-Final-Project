@@ -10,3 +10,6 @@ You may play this game with your friend, or if you want play it alone, you can p
 
 (DEPENDENCIES)
 The code must use one  of the algorithms if the player want to play it as singleplayer.
+
+(REPORT LINK)
+https://docs.google.com/document/d/1p7YztIggHwPAtQSOMuh_5FkwF0ioskUOnFQfIVBR7fM/edit?usp=sharing
