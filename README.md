@@ -13,3 +13,6 @@ The code must use one  of the algorithms if the player want to play it as single
 
 (REPORT LINK)
 https://docs.google.com/document/d/1p7YztIggHwPAtQSOMuh_5FkwF0ioskUOnFQfIVBR7fM/edit?usp=sharing
+
+(ZYBOOKS)
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/909d6c76-71a3-4de6-b7c1-a2a5c6b6c9a9" />
